@@ -2,9 +2,6 @@
 UB CSE Deep learning course Final Project
 
 
-Data/Artifacts can be donwloaded from :
-https://drive.google.com/drive/folders/1oEnWsLMo6KS2YAR5FvVOLXGKgALIXajE?usp=sharing
-
 
 The code presented as jupyter notebooks, so that it will be easy to understand the results and reproduce the same results. 
 There are 3 parts in the codebase.
@@ -24,7 +21,12 @@ All the results from these notebooks is saved in the output cells. Order to run 
 4) Part_2b_training_model_3_way_classification
 5) Part_2c_training_model_6_way_classification
 
+Data/Artifacts can be donwloaded from :
+https://drive.google.com/drive/folders/1oEnWsLMo6KS2YAR5FvVOLXGKgALIXajE?usp=sharing
 
+Dataset/all_train.tsv from the drive should be used in "Part_1_Dataset_Preparation.ipynb"
+
+Image.zip from the drive should be unzipped and the path where this is unzipped should be used in "Part_2_Features_Creation.ipynb"
 
 
 
