@@ -14,3 +14,18 @@ There are 3 parts in the codebase.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) 2-way classification model<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) 3-way classification model <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) 6-way classification model <br />
+
+
+All the results from these notebooks is saved in the output cells. Order to run the cells:
+
+1) Part_1_Dataset_Preparation
+2) Part_2_Features_Creation
+3) Part_2a_training_model_2_way_classification
+4) Part_2b_training_model_3_way_classification
+5) Part_2c_training_model_6_way_classification
+
+
+
+
+
+
