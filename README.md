@@ -10,7 +10,7 @@ The code presented as jupyter notebooks, so that it will be easy to understand t
 There are 3 parts in the codebase.
 1) Dataset Preparation
 2) Feature Creation
-3) Model Training:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) 2-way classification model
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) 3-way classification model 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) 6-way classification model\\
+3) Model Training: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a) 2-way classification model<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) 3-way classification model <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) 6-way classification model <br />
